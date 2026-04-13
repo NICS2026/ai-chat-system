@@ -1,5 +1,4 @@
-javaScript 
-  async function send() {
+async function send() {
     let input = document.getElementById("input");
     let message = input.value;
 
